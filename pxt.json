@@ -3,15 +3,14 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*"
     },
     "files": [
-        "main.ts",
-        "README.md"
+        "README.md",
+        "tutorial.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "supportedTargets": [
         "microbit"
     ],
