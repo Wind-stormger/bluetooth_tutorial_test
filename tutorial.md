@@ -1,6 +1,12 @@
-# step 1
+# Getting started
 
-Just test.
+## Introduction @unplugged
+
+test bluetooth
+
+## Step 1 @fullscreen
+
+test bluetooth
 
 ```blocks
 bluetooth.onBluetoothConnected(function () {
